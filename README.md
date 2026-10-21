@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="assets/doomsday.jpg" alt="Avengers: Doomsday" width="300">
-</p>
+<img src="assets/doomsday.jpg" alt="Avengers: Doomsday" width="300">
 
 # Marvel Chronological — Stremio addon
 
