@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/doomsday.jpg" alt="Avengers: Doomsday" width="300">
+</p>
+
 # Marvel Chronological — Stremio addon
 
 Every Marvel film and series as Stremio catalogs, ordered chronologically and
