@@ -32,7 +32,7 @@ async function getJSON(url) {
 function pickMatch(entry, metas) {
   const want = norm(entry.title);
   const scored = metas
-    .map((m) => {
+    .map((m, index) => {
       const name = norm(m.name);
       const year = startYear(m.releaseInfo);
       let score = 0;
@@ -41,6 +41,10 @@ function pickMatch(entry, metas) {
       else return null;
       const drift = Number.isFinite(year) ? Math.abs(year - entry.year) : 99;
       score -= drift * 10;
+      // Cinemeta returns duplicate stub entries for some titles: the real one
+      // has artwork, and search is ordered by popularity, so prefer both.
+      if (m.poster) score += 25;
+      score -= index * 0.5;
       return { meta: m, score, year, drift };
     })
     .filter(Boolean)

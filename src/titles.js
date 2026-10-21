@@ -146,7 +146,7 @@ export const CATALOGS = [
       { title: "Man-Thing", year: 2005, type: "movie", note: "Lionsgate" },
       { title: "Fantastic Four", year: 2005, type: "movie", note: "Fox" },
       { title: "Ghost Rider", year: 2007, type: "movie", note: "Sony" },
-      { title: "Fantastic Four: Rise of the Silver Surfer", year: 2007, type: "movie", note: "Fox" },
+      { title: "Fantastic Four: Rise of the Silver Surfer", year: 2007, type: "movie", imdb: "tt0486576", note: "Fox" },
       { title: "Punisher: War Zone", year: 2008, type: "movie", note: "Lionsgate" },
       { title: "Ghost Rider: Spirit of Vengeance", year: 2012, type: "movie", note: "Sony" },
       { title: "Fantastic Four", year: 2015, type: "movie", note: "Fox reboot" },
