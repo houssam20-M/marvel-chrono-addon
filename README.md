@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/marvel-logo.png" alt="Marvel" width="420">
+  <img src="assets/marvel-logo.png" alt="Marvel" width="100%">
 </p>
 
 # Marvel Chronological — Stremio addon
