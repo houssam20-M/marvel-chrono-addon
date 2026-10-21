@@ -1,0 +1,2185 @@
+{
+  "generatedAt": "2026-10-21T22:52:53.790Z",
+  "catalogs": [
+    {
+      "id": "mcu",
+      "name": "Marvel — MCU (Chronological)",
+      "description": "Marvel Cinematic Universe: films, Disney+ series and specials in in-universe order.",
+      "items": [
+        {
+          "id": "tt13968252",
+          "type": "series",
+          "name": "Eyes of Wakanda",
+          "poster": "https://images.metahub.space/poster/small/tt13968252/img",
+          "background": "https://images.metahub.space/background/medium/tt13968252/img",
+          "logo": "https://images.metahub.space/logo/medium/tt13968252/img",
+          "description": "Wakandan warriors who, throughout history, have traveled the world to retrieve dangerous vibranium artifacts.",
+          "releaseInfo": "2025",
+          "imdbRating": "6.2",
+          "genres": [
+            "Animation",
+            "Action",
+            "Adventure"
+          ],
+          "runtime": "29 min",
+          "order": 1,
+          "note": "1260 BC – 1896"
+        },
+        {
+          "id": "tt0458339",
+          "type": "movie",
+          "name": "Captain America: The First Avenger",
+          "poster": "https://images.metahub.space/poster/small/tt0458339/img",
+          "background": "https://images.metahub.space/background/medium/tt0458339/img",
+          "logo": "https://images.metahub.space/logo/medium/tt0458339/img",
+          "description": "Steve Rogers, a rejected military soldier, transforms into Captain America after taking a dose of a \"Super-Soldier serum\". But being Captain America comes at a price as he attempts to take down a warmonger and a terrorist organiza...",
+          "releaseInfo": "2011",
+          "imdbRating": "6.9",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+          ],
+          "runtime": "124 min",
+          "order": 2,
+          "note": "1942–1945"
+        },
+        {
+          "id": "tt3475734",
+          "type": "series",
+          "name": "Agent Carter",
+          "poster": "https://images.metahub.space/poster/small/tt3475734/img",
+          "background": "https://images.metahub.space/background/medium/tt3475734/img",
+          "logo": "https://images.metahub.space/logo/medium/tt3475734/img",
+          "description": "In 1946, Peggy Carter is relegated to secretarial duties in the Strategic Scientific Reserve (SSR). When Howard Stark is accused of treason, he secretly recruits Peggy to clear his name with the help of his butler, Edwin Jarvis.",
+          "releaseInfo": "2015–2016",
+          "imdbRating": "7.8",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Crime"
+          ],
+          "runtime": "42 min",
+          "order": 3,
+          "note": "1946–1947"
+        },
+        {
+          "id": "tt4154664",
+          "type": "movie",
+          "name": "Captain Marvel",
+          "poster": "https://images.metahub.space/poster/small/tt4154664/img",
+          "background": "https://images.metahub.space/background/medium/tt4154664/img",
+          "logo": "https://images.metahub.space/logo/medium/tt4154664/img",
+          "description": "Carol Danvers becomes one of the universe's most powerful heroes when Earth is caught in the middle of a galactic war between two alien races.",
+          "releaseInfo": "2019",
+          "imdbRating": "6.7",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+          ],
+          "runtime": "124 min",
+          "order": 4,
+          "note": "1995"
+        },
+        {
+          "id": "tt0371746",
+          "type": "movie",
+          "name": "Iron Man",
+          "poster": "https://images.metahub.space/poster/small/tt0371746/img",
+          "background": "https://images.metahub.space/background/medium/tt0371746/img",
+          "logo": "https://images.metahub.space/logo/medium/tt0371746/img",
+          "description": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.",
+          "releaseInfo": "2008",
+          "imdbRating": "7.9",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+          ],
+          "runtime": "126 min",
+          "order": 5,
+          "note": "2010"
+        },
+        {
+          "id": "tt1228705",
+          "type": "movie",
+          "name": "Iron Man 2",
+          "poster": "https://images.metahub.space/poster/small/tt1228705/img",
+          "background": "https://images.metahub.space/background/medium/tt1228705/img",
+          "logo": "https://images.metahub.space/logo/medium/tt1228705/img",
+          "description": "With the world now aware of his identity as Iron Man, Tony Stark must contend with both his declining health and a vengeful madman with ties to his father's legacy.",
+          "releaseInfo": "2010",
+          "imdbRating": "6.9",
+          "genres": [
+            "Action",
+            "Sci-Fi"
+          ],
+          "runtime": "124 min",
+          "order": 6,
+          "note": "2011"
+        },
+        {
+          "id": "tt0800080",
+          "type": "movie",
+          "name": "The Incredible Hulk",
+          "poster": "https://images.metahub.space/poster/small/tt0800080/img",
+          "background": "https://images.metahub.space/background/medium/tt0800080/img",
+          "logo": "https://images.metahub.space/logo/medium/tt0800080/img",
+          "description": "Bruce Banner, a scientist on the run from the U.S. Government, must find a cure for the monster he turns into whenever he loses his temper.",
+          "releaseInfo": "2008",
+          "imdbRating": "6.6",
+          "genres": [
+            "Action",
+            "Sci-Fi"
+          ],
+          "runtime": "114 min",
+          "order": 7,
+          "note": "2011"
+        },
+        {
+          "id": "tt0800369",
+          "type": "movie",
+          "name": "Thor",
+          "poster": "https://images.metahub.space/poster/small/tt0800369/img",
+          "background": "https://images.metahub.space/background/medium/tt0800369/img",
+          "logo": "https://images.metahub.space/logo/medium/tt0800369/img",
+          "description": "The powerful but arrogant god Thor is cast out of Asgard to live amongst humans in Midgard (Earth), where he soon becomes one of their finest defenders.",
+          "releaseInfo": "2011",
+          "imdbRating": "7.0",
+          "genres": [
+            "Action",
+            "Fantasy"
+          ],
+          "runtime": "115 min",
+          "order": 8,
+          "note": "2011"
+        },
+        {
+          "id": "tt0848228",
+          "type": "movie",
+          "name": "The Avengers",
+          "poster": "https://images.metahub.space/poster/small/tt0848228/img",
+          "background": "https://images.metahub.space/background/medium/tt0848228/img",
+          "logo": "https://images.metahub.space/logo/medium/tt0848228/img",
+          "description": "Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.",
+          "releaseInfo": "2012",
+          "imdbRating": "8.0",
+          "genres": [
+            "Action",
+            "Sci-Fi"
+          ],
+          "runtime": "143 min",
+          "order": 9,
+          "note": "2012 — Battle of New York"
+        },
+        {
+          "id": "tt2364582",
+          "type": "series",
+          "name": "Agents of S.H.I.E.L.D.",
+          "poster": "https://images.metahub.space/poster/small/tt2364582/img",
+          "background": "https://images.metahub.space/background/medium/tt2364582/img",
+          "logo": "https://images.metahub.space/logo/medium/tt2364582/img",
+          "description": "The missions of the Strategic Homeland Intervention, Enforcement and Logistics Division.",
+          "releaseInfo": "2013–2020",
+          "imdbRating": "7.5",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+          ],
+          "runtime": "43 min",
+          "order": 10,
+          "note": "2012–2019, runs alongside Phases 2–3"
+        },
+        {
+          "id": "tt1300854",
+          "type": "movie",
+          "name": "Iron Man 3",
+          "poster": "https://images.metahub.space/poster/small/tt1300854/img",
+          "background": "https://images.metahub.space/background/medium/tt1300854/img",
+          "logo": "https://images.metahub.space/logo/medium/tt1300854/img",
+          "description": "When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution.",
+          "releaseInfo": "2013",
+          "imdbRating": "7.1",
+          "genres": [
+            "Action",
+            "Adventure"
+          ],
+          "runtime": "130 min",
+          "order": 11,
+          "note": "Christmas 2012"
+        },
+        {
+          "id": "tt1981115",
+          "type": "movie",
+          "name": "Thor: The Dark World",
+          "poster": "https://images.metahub.space/poster/small/tt1981115/img",
+          "background": "https://images.metahub.space/background/medium/tt1981115/img",
+          "logo": "https://images.metahub.space/logo/medium/tt1981115/img",
+          "description": "When the Dark Elves attempt to plunge the universe into darkness, Thor must embark on a perilous and personal journey that will reunite him with doctor Jane Foster.",
+          "releaseInfo": "2013",
+          "imdbRating": "6.7",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+          ],
+          "runtime": "112 min",
+          "order": 12,
+          "note": "2013"
+        },
+        {
+          "id": "tt1843866",
+          "type": "movie",
+          "name": "Captain America: The Winter Soldier",
+          "poster": "https://images.metahub.space/poster/small/tt1843866/img",
+          "background": "https://images.metahub.space/background/medium/tt1843866/img",
+          "logo": "https://images.metahub.space/logo/medium/tt1843866/img",
+          "description": "As Steve Rogers struggles to embrace his role in the modern world, he teams up with a fellow Avenger and S.H.I.E.L.D agent, Black Widow, to battle a new threat from history: an assassin known as the Winter Soldier.",
+          "releaseInfo": "2014",
+          "imdbRating": "7.7",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+          ],
+          "runtime": "136 min",
+          "order": 13,
+          "note": "2014"
+        },
+        {
+          "id": "tt2015381",
+          "type": "movie",
+          "name": "Guardians of the Galaxy",
+          "poster": "https://images.metahub.space/poster/small/tt2015381/img",
+          "background": "https://images.metahub.space/background/medium/tt2015381/img",
+          "logo": "https://images.metahub.space/logo/medium/tt2015381/img",
+          "description": "A group of intergalactic criminals must pull together to stop a fanatical warrior with plans to purge the universe.",
+          "releaseInfo": "2014",
+          "imdbRating": "8.0",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy"
+          ],
+          "runtime": "121 min",
+          "order": 14,
+          "note": "2014"
+        },
+        {
+          "id": "tt3896198",
+          "type": "movie",
+          "name": "Guardians of the Galaxy: Vol. 2",
+          "poster": "https://images.metahub.space/poster/small/tt3896198/img",
+          "background": "https://images.metahub.space/background/medium/tt3896198/img",
+          "logo": "https://images.metahub.space/logo/medium/tt3896198/img",
+          "description": "The Guardians struggle to keep together as a team while dealing with their personal family issues, notably Star-Lord's encounter with his father, the ambitious celestial being Ego.",
+          "releaseInfo": "2017",
+          "imdbRating": "7.6",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy"
+          ],
+          "runtime": "137 min",
+          "order": 15,
+          "note": "2014, months later"
+        },
+        {
+          "id": "tt2395427",
+          "type": "movie",
+          "name": "Avengers: Age of Ultron",
+          "poster": "https://images.metahub.space/poster/small/tt2395427/img",
+          "background": "https://images.metahub.space/background/medium/tt2395427/img",
+          "logo": "https://images.metahub.space/logo/medium/tt2395427/img",
+          "description": "When Tony Stark and Bruce Banner try to jump-start a dormant peacekeeping program called Ultron, things go horribly wrong and it's up to Earth's mightiest heroes to stop the villainous Ultron from enacting his terrible plan.",
+          "releaseInfo": "2015",
+          "imdbRating": "7.3",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+          ],
+          "runtime": "141 min",
+          "order": 16,
+          "note": "2015"
+        },
+        {
+          "id": "tt0478970",
+          "type": "movie",
+          "name": "Ant-Man",
+          "poster": "https://images.metahub.space/poster/small/tt0478970/img",
+          "background": "https://images.metahub.space/background/medium/tt0478970/img",
+          "logo": "https://images.metahub.space/logo/medium/tt0478970/img",
+          "description": "Armed with a super-suit with the astonishing ability to shrink in scale but increase in strength, cat burglar Scott Lang must embrace his inner hero and help his mentor, Dr. Hank Pym, pull off a plan that will save the world.",
+          "releaseInfo": "2015",
+          "imdbRating": "7.2",
+          "genres": [
+            "Action",
+            "Comedy",
+            "Sci-Fi"
+          ],
+          "runtime": "117 min",
+          "order": 17,
+          "note": "2015"
+        },
+        {
+          "id": "tt3498820",
+          "type": "movie",
+          "name": "Captain America: Civil War",
+          "poster": "https://images.metahub.space/poster/small/tt3498820/img",
+          "background": "https://images.metahub.space/background/medium/tt3498820/img",
+          "logo": "https://images.metahub.space/logo/medium/tt3498820/img",
+          "description": "Political involvement in the Avengers' affairs causes a rift between Captain America and Iron Man.",
+          "releaseInfo": "2016",
+          "imdbRating": "7.8",
+          "genres": [
+            "Action",
+            "Sci-Fi"
+          ],
+          "runtime": "147 min",
+          "order": 18,
+          "note": "2016"
+        },
+        {
+          "id": "tt3480822",
+          "type": "movie",
+          "name": "Black Widow",
+          "poster": "https://images.metahub.space/poster/small/tt3480822/img",
+          "background": "https://images.metahub.space/background/medium/tt3480822/img",
+          "logo": "https://images.metahub.space/logo/medium/tt3480822/img",
+          "description": "Natasha Romanoff confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises.",
+          "releaseInfo": "2021",
+          "imdbRating": "6.6",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+          ],
+          "runtime": "134 min",
+          "order": 19,
+          "note": "2016, right after Civil War"
+        },
+        {
+          "id": "tt1825683",
+          "type": "movie",
+          "name": "Black Panther",
+          "poster": "https://images.metahub.space/poster/small/tt1825683/img",
+          "background": "https://images.metahub.space/background/medium/tt1825683/img",
+          "logo": "https://images.metahub.space/logo/medium/tt1825683/img",
+          "description": "T'Challa, heir to the hidden but advanced kingdom of Wakanda, must step forward to lead his people into a new future and must confront a challenger from his country's past.",
+          "releaseInfo": "2018",
+          "imdbRating": "7.3",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+          ],
+          "runtime": "135 min",
+          "order": 20,
+          "note": "2016, one week after Civil War"
+        },
+        {
+          "id": "tt2250912",
+          "type": "movie",
+          "name": "Spider-Man: Homecoming",
+          "poster": "https://images.metahub.space/poster/small/tt2250912/img",
+          "background": "https://images.metahub.space/background/medium/tt2250912/img",
+          "logo": "https://images.metahub.space/logo/medium/tt2250912/img",
+          "description": "Peter Parker tries to stop Adrian 'The Vulture' Toomes from selling weapons made with advanced Chitauri technology while trying to balance his life as an ordinary high school student.",
+          "releaseInfo": "2017",
+          "imdbRating": "7.4",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+          ],
+          "runtime": "133 min",
+          "order": 21,
+          "note": "2016"
+        },
+        {
+          "id": "tt1211837",
+          "type": "movie",
+          "name": "Doctor Strange",
+          "poster": "https://images.metahub.space/poster/small/tt1211837/img",
+          "background": "https://images.metahub.space/background/medium/tt1211837/img",
+          "logo": "https://images.metahub.space/logo/medium/tt1211837/img",
+          "description": "While on a journey of physical and spiritual healing, a brilliant neurosurgeon is drawn into the world of the mystic arts.",
+          "releaseInfo": "2016",
+          "imdbRating": "7.5",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+          ],
+          "runtime": "115 min",
+          "order": 22,
+          "note": "2016–2017"
+        },
+        {
+          "id": "tt3501632",
+          "type": "movie",
+          "name": "Thor: Ragnarok",
+          "poster": "https://images.metahub.space/poster/small/tt3501632/img",
+          "background": "https://images.metahub.space/background/medium/tt3501632/img",
+          "logo": "https://images.metahub.space/logo/medium/tt3501632/img",
+          "description": "Imprisoned on the planet Sakaar, Thor must race against time to return to Asgard and stop Ragnarök, the destruction of his world, at the hands of the powerful and ruthless villain Hela.",
+          "releaseInfo": "2017",
+          "imdbRating": "7.9",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy"
+          ],
+          "runtime": "131 min",
+          "order": 23,
+          "note": "2017"
+        },
+        {
+          "id": "tt5095030",
+          "type": "movie",
+          "name": "Ant-Man and the Wasp",
+          "poster": "https://images.metahub.space/poster/small/tt5095030/img",
+          "background": "https://images.metahub.space/background/medium/tt5095030/img",
+          "logo": "https://images.metahub.space/logo/medium/tt5095030/img",
+          "description": "As Scott Lang balances being both a superhero and a father, Hope van Dyne and Dr. Hank Pym present an urgent new mission that finds the Ant-Man fighting alongside The Wasp to uncover secrets from their past.",
+          "releaseInfo": "2018",
+          "imdbRating": "7.0",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy"
+          ],
+          "runtime": "119 min",
+          "order": 24,
+          "note": "2018, during Infinity War"
+        },
+        {
+          "id": "tt4154756",
+          "type": "movie",
+          "name": "Avengers: Infinity War",
+          "poster": "https://images.metahub.space/poster/small/tt4154756/img",
+          "background": "https://images.metahub.space/background/medium/tt4154756/img",
+          "logo": "https://images.metahub.space/logo/medium/tt4154756/img",
+          "description": "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.",
+          "releaseInfo": "2018",
+          "imdbRating": "8.4",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+          ],
+          "runtime": "149 min",
+          "order": 25,
+          "note": "2018 — the Blip"
+        },
+        {
+          "id": "tt4154796",
+          "type": "movie",
+          "name": "Avengers: Endgame",
+          "poster": "https://images.metahub.space/poster/small/tt4154796/img",
+          "background": "https://images.metahub.space/background/medium/tt4154796/img",
+          "logo": "https://images.metahub.space/logo/medium/tt4154796/img",
+          "description": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+          "releaseInfo": "2019",
+          "imdbRating": "8.4",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+          ],
+          "runtime": "181 min",
+          "order": 26,
+          "note": "2018 + 2023"
+        },
+        {
+          "id": "tt9140554",
+          "type": "series",
+          "name": "Loki",
+          "poster": "https://images.metahub.space/poster/small/tt9140554/img",
+          "background": "https://images.metahub.space/background/medium/tt9140554/img",
+          "logo": "https://images.metahub.space/logo/medium/tt9140554/img",
+          "description": "The mercurial villain Loki resumes his role as the God of Mischief in a new series that takes place after the events of “Avengers: Endgame.”",
+          "releaseInfo": "2021–2023",
+          "imdbRating": "8.2",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+          ],
+          "runtime": "49 min",
+          "order": 27,
+          "note": "After Endgame — TVA / multiverse"
+        },
+        {
+          "id": "tt10168312",
+          "type": "series",
+          "name": "What If...?",
+          "poster": "https://images.metahub.space/poster/small/tt10168312/img",
+          "background": "https://images.metahub.space/background/medium/tt10168312/img",
+          "logo": "https://images.metahub.space/logo/medium/tt10168312/img",
+          "description": "Exploring pivotal moments from the Marvel Cinematic Universe and turning them on their head, leading the audience into uncharted territory.",
+          "releaseInfo": "2021–2024",
+          "imdbRating": "7.3",
+          "genres": [
+            "Animation",
+            "Action",
+            "Adventure"
+          ],
+          "runtime": "30 min",
+          "order": 28,
+          "note": "Multiverse, animated"
+        },
+        {
+          "id": "tt9140560",
+          "type": "series",
+          "name": "WandaVision",
+          "poster": "https://images.metahub.space/poster/small/tt9140560/img",
+          "background": "https://images.metahub.space/background/medium/tt9140560/img",
+          "logo": "https://images.metahub.space/logo/medium/tt9140560/img",
+          "description": "Blends the style of classic sitcoms with the MCU, in which Wanda Maximoff and Vision - two super-powered beings living their ideal suburban lives - begin to suspect that everything is not as it seems.",
+          "releaseInfo": "2021",
+          "imdbRating": "7.9",
+          "genres": [
+            "Action",
+            "Comedy",
+            "Drama"
+          ],
+          "runtime": "36 min",
+          "order": 29,
+          "note": "2023, three weeks after Endgame"
+        },
+        {
+          "id": "tt9208876",
+          "type": "series",
+          "name": "The Falcon and the Winter Soldier",
+          "poster": "https://images.metahub.space/poster/small/tt9208876/img",
+          "background": "https://images.metahub.space/background/medium/tt9208876/img",
+          "logo": "https://images.metahub.space/logo/medium/tt9208876/img",
+          "description": "Following the events of 'Avengers: Endgame,' Sam Wilson/Falcon and Bucky Barnes/Winter Soldier team up in a global adventure that tests their abilities -- and their patience.",
+          "releaseInfo": "2021",
+          "imdbRating": "7.1",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Drama"
+          ],
+          "runtime": "50 min",
+          "order": 30,
+          "note": "2024"
+        },
+        {
+          "id": "tt9376612",
+          "type": "movie",
+          "name": "Shang-Chi and the Legend of the Ten Rings",
+          "poster": "https://images.metahub.space/poster/small/tt9376612/img",
+          "background": "https://images.metahub.space/background/medium/tt9376612/img",
+          "logo": "https://images.metahub.space/logo/medium/tt9376612/img",
+          "description": "Shang-Chi, the master of weaponry-based Kung Fu, is forced to confront his past after being drawn into the Ten Rings organization.",
+          "releaseInfo": "2021",
+          "imdbRating": "7.3",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+          ],
+          "runtime": "132 min",
+          "order": 31,
+          "note": "2024"
+        },
+        {
+          "id": "tt9032400",
+          "type": "movie",
+          "name": "Eternals",
+          "poster": "https://images.metahub.space/poster/small/tt9032400/img",
+          "background": "https://images.metahub.space/background/medium/tt9032400/img",
+          "logo": "https://images.metahub.space/logo/medium/tt9032400/img",
+          "description": "The saga of the Eternals, a race of immortal beings who lived on Earth and shaped its history and civilizations.",
+          "releaseInfo": "2021",
+          "imdbRating": "6.2",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+          ],
+          "runtime": "156 min",
+          "order": 32,
+          "note": "2024"
+        },
+        {
+          "id": "tt6320628",
+          "type": "movie",
+          "name": "Spider-Man: Far from Home",
+          "poster": "https://images.metahub.space/poster/small/tt6320628/img",
+          "background": "https://images.metahub.space/background/medium/tt6320628/img",
+          "logo": "https://images.metahub.space/logo/medium/tt6320628/img",
+          "description": "Peter Parker heads to Europe hoping for a normal summer, but elemental attacks and a mysterious new hero pull him back into a dangerous fight he isn't ready to embrace.",
+          "releaseInfo": "2019",
+          "imdbRating": "7.3",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy"
+          ],
+          "runtime": "129 min",
+          "order": 33,
+          "note": "2024, summer"
+        },
+        {
+          "id": "tt10872600",
+          "type": "movie",
+          "name": "Spider-Man: No Way Home",
+          "poster": "https://images.metahub.space/poster/small/tt10872600/img",
+          "background": "https://images.metahub.space/background/medium/tt10872600/img",
+          "logo": "https://images.metahub.space/logo/medium/tt10872600/img",
+          "description": "Peter Parker turns to Doctor Strange after his identity destroys the life he knows, but a magical mistake draws powerful outsiders into his world and forces him to confront what being Spider Man really means.",
+          "releaseInfo": "2021",
+          "imdbRating": "8.1",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+          ],
+          "runtime": "148 min",
+          "order": 34,
+          "note": "2024"
+        },
+        {
+          "id": "tt10160804",
+          "type": "series",
+          "name": "Hawkeye",
+          "poster": "https://images.metahub.space/poster/small/tt10160804/img",
+          "background": "https://images.metahub.space/background/medium/tt10160804/img",
+          "logo": "https://images.metahub.space/logo/medium/tt10160804/img",
+          "description": "Clint Barton aka Hawkeye has the mission to get back to his family for Christmas. But when a threat from his past shows up, Hawkeye reluctantly teams up with Kate Bishop, a skilled archer and his biggest fan, to unravel a conspiracy.",
+          "releaseInfo": "2021",
+          "imdbRating": "7.4",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Crime"
+          ],
+          "runtime": "47 min",
+          "order": 35,
+          "note": "Christmas 2024"
+        },
+        {
+          "id": "tt10234724",
+          "type": "series",
+          "name": "Moon Knight",
+          "poster": "https://images.metahub.space/poster/small/tt10234724/img",
+          "background": "https://images.metahub.space/background/medium/tt10234724/img",
+          "logo": "https://images.metahub.space/logo/medium/tt10234724/img",
+          "description": "Steven Grant discovers he's been granted the powers of an Egyptian moon god. But he soon finds out that these newfound powers can be both a blessing and a curse to his troubled life.",
+          "releaseInfo": "2022",
+          "imdbRating": "7.3",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+          ],
+          "runtime": "48 min",
+          "order": 36,
+          "note": "2025"
+        },
+        {
+          "id": "tt10857164",
+          "type": "series",
+          "name": "Ms. Marvel",
+          "poster": "https://images.metahub.space/poster/small/tt10857164/img",
+          "background": "https://images.metahub.space/background/medium/tt10857164/img",
+          "logo": "https://images.metahub.space/logo/medium/tt10857164/img",
+          "description": "Kamala, a superhero fan with an imagination--particularly when it comes to Captain Marvel--feels like she doesn't fit in at school and sometimes even at home, that is until she gets superpowers like the heroes she admires.",
+          "releaseInfo": "2022",
+          "imdbRating": "6.2",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy"
+          ],
+          "runtime": "45 min",
+          "order": 37,
+          "note": "2025"
+        },
+        {
+          "id": "tt10857160",
+          "type": "series",
+          "name": "She Hulk: Attorney at Law",
+          "poster": "https://images.metahub.space/poster/small/tt10857160/img",
+          "background": "https://images.metahub.space/background/medium/tt10857160/img",
+          "logo": "https://images.metahub.space/logo/medium/tt10857160/img",
+          "description": "Jennifer Walters navigates the complicated life of a single, 30-something attorney who also happens to be a green 6-foot-7-inch superpowered Hulk.",
+          "releaseInfo": "2022",
+          "imdbRating": "5.2",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy"
+          ],
+          "runtime": "32 min",
+          "order": 38,
+          "note": "2025"
+        },
+        {
+          "id": "tt9114286",
+          "type": "movie",
+          "name": "Black Panther: Wakanda Forever",
+          "poster": "https://images.metahub.space/poster/small/tt9114286/img",
+          "background": "https://images.metahub.space/background/medium/tt9114286/img",
+          "logo": "https://images.metahub.space/logo/medium/tt9114286/img",
+          "description": "The people of Wakanda fight to protect their home from intervening world powers as they mourn the death of King T'Challa.",
+          "releaseInfo": "2022",
+          "imdbRating": "6.6",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Drama"
+          ],
+          "runtime": "162 min",
+          "order": 39,
+          "note": "2025"
+        },
+        {
+          "id": "tt15318872",
+          "type": "movie",
+          "name": "Werewolf by Night",
+          "poster": "https://images.metahub.space/poster/small/tt15318872/img",
+          "background": "https://images.metahub.space/background/medium/tt15318872/img",
+          "logo": "https://images.metahub.space/logo/medium/tt15318872/img",
+          "description": "Follows a lycanthrope superhero who fights evil using the abilities given to him by a curse brought on by his bloodline.",
+          "releaseInfo": "2022",
+          "imdbRating": "7.1",
+          "genres": [
+            "Action",
+            "Drama",
+            "Fantasy"
+          ],
+          "runtime": "55 min",
+          "order": 40,
+          "note": "Special presentation"
+        },
+        {
+          "id": "tt13623136",
+          "type": "movie",
+          "name": "The Guardians of the Galaxy Holiday Special",
+          "poster": "https://images.metahub.space/poster/small/tt13623136/img",
+          "background": "https://images.metahub.space/background/medium/tt13623136/img",
+          "logo": "https://images.metahub.space/logo/medium/tt13623136/img",
+          "description": "Star-Lord, Drax, Rocket, Mantis, and Groot engage in some spirited shenanigans in an all-new original special created for Disney+.",
+          "releaseInfo": "2022",
+          "imdbRating": "6.9",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy"
+          ],
+          "runtime": "45 min",
+          "order": 41,
+          "note": "Christmas 2025"
+        },
+        {
+          "id": "tt10954600",
+          "type": "movie",
+          "name": "Ant-Man and the Wasp: Quantumania",
+          "poster": "https://images.metahub.space/poster/small/tt10954600/img",
+          "background": "https://images.metahub.space/background/medium/tt10954600/img",
+          "logo": "https://images.metahub.space/logo/medium/tt10954600/img",
+          "description": "Scott Lang and Hope Van Dyne are dragged into the Quantum Realm, along with Hope's parents and Scott's daughter Cassie. Together they must find a way to escape, but what secrets is Hope's mother hiding? And who is the mysterious K...",
+          "releaseInfo": "2023",
+          "imdbRating": "6.0",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy"
+          ],
+          "runtime": "125 min",
+          "order": 42,
+          "note": "2026"
+        },
+        {
+          "id": "tt13157618",
+          "type": "series",
+          "name": "Secret Invasion",
+          "poster": "https://images.metahub.space/poster/small/tt13157618/img",
+          "background": "https://images.metahub.space/background/medium/tt13157618/img",
+          "logo": "https://images.metahub.space/logo/medium/tt13157618/img",
+          "description": "Fury and Talos try to stop the Skrulls who have infiltrated the highest spheres of the Marvel Universe.",
+          "releaseInfo": "2023",
+          "imdbRating": "5.8",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Mystery"
+          ],
+          "runtime": "43 min",
+          "order": 43,
+          "note": "2026"
+        },
+        {
+          "id": "tt6791350",
+          "type": "movie",
+          "name": "Guardians of the Galaxy Vol. 3",
+          "poster": "https://images.metahub.space/poster/small/tt6791350/img",
+          "background": "https://images.metahub.space/background/medium/tt6791350/img",
+          "logo": "https://images.metahub.space/logo/medium/tt6791350/img",
+          "description": "Still reeling from the loss of Gamora, Peter Quill rallies his team to defend the universe and one of their own - a mission that could mean the end of the Guardians if not successful.",
+          "releaseInfo": "2023",
+          "imdbRating": "7.9",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy"
+          ],
+          "runtime": "150 min",
+          "order": 44,
+          "note": "2026"
+        },
+        {
+          "id": "tt13966962",
+          "type": "series",
+          "name": "Echo",
+          "poster": "https://images.metahub.space/poster/small/tt13966962/img",
+          "background": "https://images.metahub.space/background/medium/tt13966962/img",
+          "logo": "https://images.metahub.space/logo/medium/tt13966962/img",
+          "description": "Maya Lopez must face her past, reconnect with her Native American roots, and embrace the meaning of family and community if she ever hopes to move forward.",
+          "releaseInfo": "2023–2024",
+          "imdbRating": "5.9",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Crime"
+          ],
+          "runtime": "41 min",
+          "order": 45,
+          "note": "2025, after Hawkeye"
+        },
+        {
+          "id": "tt10676048",
+          "type": "movie",
+          "name": "The Marvels",
+          "poster": "https://images.metahub.space/poster/small/tt10676048/img",
+          "background": "https://images.metahub.space/background/medium/tt10676048/img",
+          "logo": "https://images.metahub.space/logo/medium/tt10676048/img",
+          "description": "Carol Danvers gets her powers entangled with those of Kamala Khan and Monica Rambeau, forcing them to work together to save the universe.",
+          "releaseInfo": "2023",
+          "imdbRating": "5.4",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+          ],
+          "runtime": "105 min",
+          "order": 46,
+          "note": "2026"
+        },
+        {
+          "id": "tt15571732",
+          "type": "series",
+          "name": "Agatha All Along",
+          "poster": "https://images.metahub.space/poster/small/tt15571732/img",
+          "background": "https://images.metahub.space/background/medium/tt15571732/img",
+          "logo": "https://images.metahub.space/logo/medium/tt15571732/img",
+          "description": "A spell-bound Agatha Harkness regains freedom thanks to a teen's help. Intrigued by his plea, she embarks on the Witches' Road trials to reclaim her powers and discover the teen's motivations.",
+          "releaseInfo": "2024",
+          "imdbRating": "7.2",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy"
+          ],
+          "runtime": "40 min",
+          "order": 47,
+          "note": "2026, after WandaVision"
+        },
+        {
+          "id": "tt6263850",
+          "type": "movie",
+          "name": "Deadpool & Wolverine",
+          "poster": "https://images.metahub.space/poster/small/tt6263850/img",
+          "background": "https://images.metahub.space/background/medium/tt6263850/img",
+          "logo": "https://images.metahub.space/logo/medium/tt6263850/img",
+          "description": "Deadpool is offered a place in the Marvel Cinematic Universe by the Time Variance Authority, but instead recruits a variant of Wolverine to save his universe from extinction.",
+          "releaseInfo": "2024",
+          "imdbRating": "7.5",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy"
+          ],
+          "runtime": "128 min",
+          "order": 48,
+          "note": "2024 + TVA / Void"
+        },
+        {
+          "id": "tt14513804",
+          "type": "movie",
+          "name": "Captain America: Brave New World",
+          "poster": "https://images.metahub.space/poster/small/tt14513804/img",
+          "background": "https://images.metahub.space/background/medium/tt14513804/img",
+          "logo": "https://images.metahub.space/logo/medium/tt14513804/img",
+          "description": "Sam Wilson, the new Captain America, finds himself in the middle of an international incident and must discover the motive behind a nefarious global plan.",
+          "releaseInfo": "2025",
+          "imdbRating": "5.6",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+          ],
+          "runtime": "119 min",
+          "order": 49,
+          "note": "2027"
+        },
+        {
+          "id": "tt20969586",
+          "type": "movie",
+          "name": "Thunderbolts*",
+          "poster": "https://images.metahub.space/poster/small/tt20969586/img",
+          "background": "https://images.metahub.space/background/medium/tt20969586/img",
+          "logo": "https://images.metahub.space/logo/medium/tt20969586/img",
+          "description": "After finding themselves ensnared in a death trap, an unconventional team of antiheroes must go on a dangerous mission that will force them to confront the darkest corners of their pasts.",
+          "releaseInfo": "2025",
+          "imdbRating": "7.1",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Crime"
+          ],
+          "runtime": "127 min",
+          "order": 50,
+          "note": "2027, after Brave New World"
+        },
+        {
+          "id": "tt18923754",
+          "type": "series",
+          "name": "Daredevil: Born Again",
+          "poster": "https://images.metahub.space/poster/small/tt18923754/img",
+          "background": "https://images.metahub.space/background/medium/tt18923754/img",
+          "logo": "https://images.metahub.space/logo/medium/tt18923754/img",
+          "description": "Matt Murdock finds himself on a collision course with Wilson Fisk when their past identities begin to emerge.",
+          "releaseInfo": "2025–",
+          "imdbRating": "8.1",
+          "genres": [
+            "Action",
+            "Crime",
+            "Drama"
+          ],
+          "runtime": "48 min",
+          "order": 51,
+          "note": "2026–2027"
+        },
+        {
+          "id": "tt13623126",
+          "type": "series",
+          "name": "Ironheart",
+          "poster": "https://images.metahub.space/poster/small/tt13623126/img",
+          "background": "https://images.metahub.space/background/medium/tt13623126/img",
+          "logo": "https://images.metahub.space/logo/medium/tt13623126/img",
+          "description": "Genius teenage inventor Riri Williams creates the most advanced suit of armor since Iron Man.",
+          "releaseInfo": "2025",
+          "imdbRating": "4.5",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+          ],
+          "runtime": "48 min",
+          "order": 52,
+          "note": "2026, after Wakanda Forever"
+        },
+        {
+          "id": "tt21066182",
+          "type": "series",
+          "name": "Wonder Man",
+          "poster": "https://images.metahub.space/poster/small/tt21066182/img",
+          "background": "https://images.metahub.space/background/medium/tt21066182/img",
+          "logo": "https://images.metahub.space/logo/medium/tt21066182/img",
+          "description": "Small-time actor Simon Williams struggles to reckon with his personal life while hiding his super-powers as he tries to land his dream role. Meanwhile, a shady government agent leverages a new friendship in order to save his own job.",
+          "releaseInfo": "2026",
+          "imdbRating": "7.4",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy"
+          ],
+          "runtime": "31 min",
+          "order": 53,
+          "note": "Present day"
+        },
+        {
+          "id": "tt23112594",
+          "type": "series",
+          "name": "VisionQuest",
+          "poster": "https://images.metahub.space/poster/small/tt23112594/img",
+          "background": "https://images.metahub.space/background/medium/tt23112594/img",
+          "logo": "https://images.metahub.space/logo/medium/tt23112594/img",
+          "description": "Vision is faced with many challenges while trying to regain his memory and humanity.",
+          "releaseInfo": "2026",
+          "imdbRating": "",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Drama"
+          ],
+          "runtime": "50 min",
+          "order": 54,
+          "note": "After WandaVision / Agatha"
+        },
+        {
+          "id": "tt22084616",
+          "type": "movie",
+          "name": "Spider-Man: Brand New Day",
+          "poster": "https://images.metahub.space/poster/small/tt22084616/img",
+          "background": "https://images.metahub.space/background/medium/tt22084616/img",
+          "logo": "https://images.metahub.space/logo/medium/tt22084616/img",
+          "description": "A forgotten Peter Parker lives alone as a full-time Spider-Man until mounting pressure triggers a dangerous change and a powerful new enemy emerges.",
+          "releaseInfo": "2026",
+          "imdbRating": "8.0",
+          "genres": [
+            "Action",
+            "Adventure"
+          ],
+          "runtime": "145 min",
+          "order": 55,
+          "note": "After No Way Home"
+        },
+        {
+          "id": "tt10676052",
+          "type": "movie",
+          "name": "The Fantastic Four: First Steps",
+          "poster": "https://images.metahub.space/poster/small/tt10676052/img",
+          "background": "https://images.metahub.space/background/medium/tt10676052/img",
+          "logo": "https://images.metahub.space/logo/medium/tt10676052/img",
+          "description": "Forced to balance their roles as heroes with the strength of their family bond, the Fantastic Four must defend Earth from a ravenous space god called Galactus and his enigmatic herald, the Silver Surfer.",
+          "releaseInfo": "2025",
+          "imdbRating": "6.8",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+          ],
+          "runtime": "115 min",
+          "order": 56,
+          "note": "Earth-828, retro-futuristic 1960s"
+        },
+        {
+          "id": "tt16027014",
+          "type": "series",
+          "name": "Marvel Zombies",
+          "poster": "https://images.metahub.space/poster/small/tt16027014/img",
+          "background": "https://images.metahub.space/background/medium/tt16027014/img",
+          "logo": "https://images.metahub.space/logo/medium/tt16027014/img",
+          "description": "After the Avengers are overtaken by a zombie plague, a group of survivors discover the key to bringing an end to the super-powered undead, racing across a dystopian landscape and risking their lives to save their world.",
+          "releaseInfo": "2025–2026",
+          "imdbRating": "7.0",
+          "genres": [
+            "Animation",
+            "Action",
+            "Adventure"
+          ],
+          "runtime": "31 min",
+          "order": 57,
+          "note": "Alternate universe, animated"
+        },
+        {
+          "id": "tt21357150",
+          "type": "movie",
+          "name": "Avengers: Doomsday",
+          "poster": "https://images.metahub.space/poster/small/tt21357150/img",
+          "background": "https://images.metahub.space/background/medium/tt21357150/img",
+          "logo": "https://images.metahub.space/logo/medium/tt21357150/img",
+          "description": "Heroes from three different worlds must unite when they're thrust together to confront a catastrophic danger that could destroy everything they know.",
+          "releaseInfo": "2026",
+          "imdbRating": "",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+          ],
+          "runtime": "165 min",
+          "order": 58,
+          "note": "Upcoming — December 2026"
+        }
+      ]
+    },
+    {
+      "id": "defenders",
+      "name": "Marvel — Defenders Saga & Marvel TV",
+      "description": "The Netflix street-level corner of New York, plus the other Marvel Television shows, in order of events.",
+      "items": [
+        {
+          "id": "tt3322312",
+          "type": "series",
+          "name": "Daredevil",
+          "poster": "https://images.metahub.space/poster/small/tt3322312/img",
+          "background": "https://images.metahub.space/background/medium/tt3322312/img",
+          "logo": "https://images.metahub.space/logo/medium/tt3322312/img",
+          "description": "A blind lawyer by day, vigilante by night. Matt Murdock fights the crime of New York as Daredevil.",
+          "releaseInfo": "2015–2018",
+          "imdbRating": "8.6",
+          "genres": [
+            "Action",
+            "Crime",
+            "Drama"
+          ],
+          "runtime": "53 min",
+          "order": 1,
+          "note": "2015–2018, Hell's Kitchen"
+        },
+        {
+          "id": "tt2357547",
+          "type": "series",
+          "name": "Jessica Jones",
+          "poster": "https://images.metahub.space/poster/small/tt2357547/img",
+          "background": "https://images.metahub.space/background/medium/tt2357547/img",
+          "logo": "https://images.metahub.space/logo/medium/tt2357547/img",
+          "description": "Following the tragic end of her brief superhero career, Jessica Jones tries to rebuild her life as a private investigator, dealing with cases involving people with remarkable abilities in New York City.",
+          "releaseInfo": "2015–2019",
+          "imdbRating": "7.8",
+          "genres": [
+            "Action",
+            "Crime",
+            "Drama"
+          ],
+          "runtime": "51 min",
+          "order": 2,
+          "note": "Starts after Daredevil S1"
+        },
+        {
+          "id": "tt3322314",
+          "type": "series",
+          "name": "Luke Cage",
+          "poster": "https://images.metahub.space/poster/small/tt3322314/img",
+          "background": "https://images.metahub.space/background/medium/tt3322314/img",
+          "logo": "https://images.metahub.space/logo/medium/tt3322314/img",
+          "description": "When a sabotaged experiment gives him super strength and unbreakable skin, Luke Cage becomes a fugitive attempting to rebuild his life in Harlem and must confront his past and fight a battle for the heart of his city.",
+          "releaseInfo": "2016–2018",
+          "imdbRating": "7.2",
+          "genres": [
+            "Action",
+            "Crime",
+            "Drama"
+          ],
+          "runtime": "56 min",
+          "order": 3,
+          "note": "After Jessica Jones S1"
+        },
+        {
+          "id": "tt3322310",
+          "type": "series",
+          "name": "Iron Fist",
+          "poster": "https://images.metahub.space/poster/small/tt3322310/img",
+          "background": "https://images.metahub.space/background/medium/tt3322310/img",
+          "logo": "https://images.metahub.space/logo/medium/tt3322310/img",
+          "description": "A young man is bestowed with incredible martial arts skills and a mystical force known as the Iron Fist.",
+          "releaseInfo": "2017–2018",
+          "imdbRating": "6.4",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Crime"
+          ],
+          "runtime": "53 min",
+          "order": 4,
+          "note": "After Luke Cage S1"
+        },
+        {
+          "id": "tt4230076",
+          "type": "series",
+          "name": "The Defenders",
+          "poster": "https://images.metahub.space/poster/small/tt4230076/img",
+          "background": "https://images.metahub.space/background/medium/tt4230076/img",
+          "logo": "https://images.metahub.space/logo/medium/tt4230076/img",
+          "description": "Set a few months after the events of the second season of Daredevil, and a month after the events of Iron Fist, the vigilantes Daredevil, Jessica Jones, Luke Cage, and Iron Fist team up in New York City to fight a common enemy: Th...",
+          "releaseInfo": "2017",
+          "imdbRating": "7.2",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Crime"
+          ],
+          "runtime": "49 min",
+          "order": 5,
+          "note": "Crossover — the four meet"
+        },
+        {
+          "id": "tt5675620",
+          "type": "series",
+          "name": "The Punisher",
+          "poster": "https://images.metahub.space/poster/small/tt5675620/img",
+          "background": "https://images.metahub.space/background/medium/tt5675620/img",
+          "logo": "https://images.metahub.space/logo/medium/tt5675620/img",
+          "description": "After his revenge on those who murdered his family, aimless Marine veteran Frank Castle finds a new meaning in life as a vigilante known as \"The Punisher\".",
+          "releaseInfo": "2017–2019",
+          "imdbRating": "8.4",
+          "genres": [
+            "Action",
+            "Crime",
+            "Drama"
+          ],
+          "runtime": "52 min",
+          "order": 6,
+          "note": "After Daredevil S2 / The Defenders"
+        },
+        {
+          "id": "tt4154858",
+          "type": "series",
+          "name": "Inhumans",
+          "poster": "https://images.metahub.space/poster/small/tt4154858/img",
+          "background": "https://images.metahub.space/background/medium/tt4154858/img",
+          "logo": "https://images.metahub.space/logo/medium/tt4154858/img",
+          "description": "An isolated community of superhumans fight to protect themselves.",
+          "releaseInfo": "2017",
+          "imdbRating": "4.9",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+          ],
+          "runtime": "42 min",
+          "order": 7,
+          "note": "Marvel TV / ABC"
+        },
+        {
+          "id": "tt1236246",
+          "type": "series",
+          "name": "Runaways",
+          "poster": "https://images.metahub.space/poster/small/tt1236246/img",
+          "background": "https://images.metahub.space/background/medium/tt1236246/img",
+          "logo": "https://images.metahub.space/logo/medium/tt1236246/img",
+          "description": "After discovering a dark secret about their parents, a group of teenagers band together to run away from their homes in order to atone for their parents' actions and to discover the secrets of their origins.",
+          "releaseInfo": "2017–2019",
+          "imdbRating": "6.8",
+          "genres": [
+            "Action",
+            "Drama",
+            "Sci-Fi"
+          ],
+          "runtime": "48 min",
+          "order": 8,
+          "note": "Marvel TV / Hulu"
+        },
+        {
+          "id": "tt5614844",
+          "type": "series",
+          "name": "Cloak & Dagger",
+          "poster": "https://images.metahub.space/poster/small/tt5614844/img",
+          "background": "https://images.metahub.space/background/medium/tt5614844/img",
+          "logo": "https://images.metahub.space/logo/medium/tt5614844/img",
+          "description": "Two teenagers from very different backgrounds find themselves burdened and awakened to newly acquired superpowers while growing closer together every day.",
+          "releaseInfo": "2018–2019",
+          "imdbRating": "6.6",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Drama"
+          ],
+          "runtime": "42 min",
+          "order": 9,
+          "note": "Marvel TV / Freeform"
+        },
+        {
+          "id": "tt10266874",
+          "type": "series",
+          "name": "Helstrom",
+          "poster": "https://images.metahub.space/poster/small/tt10266874/img",
+          "background": "https://images.metahub.space/background/medium/tt10266874/img",
+          "logo": "https://images.metahub.space/logo/medium/tt10266874/img",
+          "description": "Daimon and Ana Helstrom are the son and daughter of a mysterious and powerful serial killer. The siblings have a complicated dynamic as they track down the terrorizing worst of humanity - each with their attitude and skills.",
+          "releaseInfo": "2020",
+          "imdbRating": "6.7",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Drama"
+          ],
+          "runtime": "50 min",
+          "order": 10,
+          "note": "Marvel TV / Hulu"
+        }
+      ]
+    },
+    {
+      "id": "xmen",
+      "name": "Marvel — X-Men (Chronological)",
+      "description": "The 20th Century Fox mutant timeline, ordered by when the story is set.",
+      "items": [
+        {
+          "id": "tt0458525",
+          "type": "movie",
+          "name": "X-Men Origins: Wolverine",
+          "poster": "https://images.metahub.space/poster/small/tt0458525/img",
+          "background": "https://images.metahub.space/background/medium/tt0458525/img",
+          "logo": "https://images.metahub.space/logo/medium/tt0458525/img",
+          "description": "The early years of James Logan, featuring his rivalry with his brother Victor Creed, his service in the special forces team Weapon X, and his experimentation into the metal-lined mutant Wolverine.",
+          "releaseInfo": "2009",
+          "imdbRating": "6.5",
+          "genres": [
+            "Action",
+            "Sci-Fi"
+          ],
+          "runtime": "107 min",
+          "order": 1,
+          "note": "1845–1979"
+        },
+        {
+          "id": "tt1270798",
+          "type": "movie",
+          "name": "X-Men: First Class",
+          "poster": "https://images.metahub.space/poster/small/tt1270798/img",
+          "background": "https://images.metahub.space/background/medium/tt1270798/img",
+          "logo": "https://images.metahub.space/logo/medium/tt1270798/img",
+          "description": "In the 1960s, superpowered humans Charles Xavier and Erik Lensherr work together to find others like them, but Erik's vengeful pursuit of an ambitious mutant who ruined his life causes a schism to divide them.",
+          "releaseInfo": "2011",
+          "imdbRating": "7.7",
+          "genres": [
+            "Action",
+            "Sci-Fi"
+          ],
+          "runtime": "132 min",
+          "order": 2,
+          "note": "1962"
+        },
+        {
+          "id": "tt1877832",
+          "type": "movie",
+          "name": "X-Men: Days of Future Past",
+          "poster": "https://images.metahub.space/poster/small/tt1877832/img",
+          "background": "https://images.metahub.space/background/medium/tt1877832/img",
+          "logo": "https://images.metahub.space/logo/medium/tt1877832/img",
+          "description": "The X-Men send Wolverine to the past in a desperate effort to change history and prevent an event that results in doom for both humans and mutants.",
+          "releaseInfo": "2014",
+          "imdbRating": "7.9",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+          ],
+          "runtime": "132 min",
+          "order": 3,
+          "note": "1973 + 2023 — resets the timeline"
+        },
+        {
+          "id": "tt3385516",
+          "type": "movie",
+          "name": "X-Men: Apocalypse",
+          "poster": "https://images.metahub.space/poster/small/tt3385516/img",
+          "background": "https://images.metahub.space/background/medium/tt3385516/img",
+          "logo": "https://images.metahub.space/logo/medium/tt3385516/img",
+          "description": "In the 1980s, the X-Men must defeat an ancient all-powerful mutant, En Sabah Nur, who intends to thrive by bringing destruction to the world.",
+          "releaseInfo": "2016",
+          "imdbRating": "6.8",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+          ],
+          "runtime": "144 min",
+          "order": 4,
+          "note": "1983"
+        },
+        {
+          "id": "tt6565702",
+          "type": "movie",
+          "name": "X-Men: Dark Phoenix",
+          "poster": "https://images.metahub.space/poster/small/tt6565702/img",
+          "background": "https://images.metahub.space/background/medium/tt6565702/img",
+          "logo": "https://images.metahub.space/logo/medium/tt6565702/img",
+          "description": "Jean Grey begins to develop incredible powers that corrupt and turn her into a Dark Phoenix, causing the X-Men to have to decide if her life is worth more than all of humanity.",
+          "releaseInfo": "2019",
+          "imdbRating": "5.7",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+          ],
+          "runtime": "114 min",
+          "order": 5,
+          "note": "1992"
+        },
+        {
+          "id": "tt0120903",
+          "type": "movie",
+          "name": "X-Men",
+          "poster": "https://images.metahub.space/poster/small/tt0120903/img",
+          "background": "https://images.metahub.space/background/medium/tt0120903/img",
+          "logo": "https://images.metahub.space/logo/medium/tt0120903/img",
+          "description": "In a world where mutants (evolved super-powered humans) exist and are discriminated against, two groups form for an inevitable clash: the supremacist Brotherhood, and the pacifist X-Men.",
+          "releaseInfo": "2000",
+          "imdbRating": "7.3",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+          ],
+          "runtime": "104 min",
+          "order": 6,
+          "note": "2000s — original timeline"
+        },
+        {
+          "id": "tt0290334",
+          "type": "movie",
+          "name": "X2: X-Men United",
+          "poster": "https://images.metahub.space/poster/small/tt0290334/img",
+          "background": "https://images.metahub.space/background/medium/tt0290334/img",
+          "logo": "https://images.metahub.space/logo/medium/tt0290334/img",
+          "description": "When anti-mutant Colonel William Stryker kidnaps Professor X and attacks his school, the X-Men must ally with their archenemy Magneto to stop him.",
+          "releaseInfo": "2003",
+          "imdbRating": "7.4",
+          "genres": [
+            "Action",
+            "Sci-Fi",
+            "Thriller"
+          ],
+          "runtime": "133 min",
+          "order": 7,
+          "note": "Right after X-Men"
+        },
+        {
+          "id": "tt0376994",
+          "type": "movie",
+          "name": "X-Men: The Last Stand",
+          "poster": "https://images.metahub.space/poster/small/tt0376994/img",
+          "background": "https://images.metahub.space/background/medium/tt0376994/img",
+          "logo": "https://images.metahub.space/logo/medium/tt0376994/img",
+          "description": "The human government develops a cure for mutations, and Jean Grey becomes a darker uncontrollable persona called the Phoenix who allies with Magneto, causing escalation into an all-out battle for the X-Men.",
+          "releaseInfo": "2006",
+          "imdbRating": "6.6",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+          ],
+          "runtime": "104 min",
+          "order": 8,
+          "note": "After X2"
+        },
+        {
+          "id": "tt1430132",
+          "type": "movie",
+          "name": "The Wolverine",
+          "poster": "https://images.metahub.space/poster/small/tt1430132/img",
+          "background": "https://images.metahub.space/background/medium/tt1430132/img",
+          "logo": "https://images.metahub.space/logo/medium/tt1430132/img",
+          "description": "Wolverine comes to Japan to meet an old friend whose life he saved years ago, and gets embroiled in a conspiracy involving yakuza and mutants.",
+          "releaseInfo": "2013",
+          "imdbRating": "6.7",
+          "genres": [
+            "Action",
+            "Sci-Fi",
+            "Thriller"
+          ],
+          "runtime": "126 min",
+          "order": 9,
+          "note": "After The Last Stand"
+        },
+        {
+          "id": "tt1431045",
+          "type": "movie",
+          "name": "Deadpool",
+          "poster": "https://images.metahub.space/poster/small/tt1431045/img",
+          "background": "https://images.metahub.space/background/medium/tt1431045/img",
+          "logo": "https://images.metahub.space/logo/medium/tt1431045/img",
+          "description": "A wisecracking mercenary gets experimented on and becomes immortal yet hideously scarred, and sets out to track down the man who ruined his looks.",
+          "releaseInfo": "2016",
+          "imdbRating": "8.0",
+          "genres": [
+            "Action",
+            "Comedy",
+            "Sci-Fi"
+          ],
+          "runtime": "108 min",
+          "order": 10,
+          "note": "2016"
+        },
+        {
+          "id": "tt5463162",
+          "type": "movie",
+          "name": "Deadpool 2",
+          "poster": "https://images.metahub.space/poster/small/tt5463162/img",
+          "background": "https://images.metahub.space/background/medium/tt5463162/img",
+          "logo": "https://images.metahub.space/logo/medium/tt5463162/img",
+          "description": "Foul-mouthed mutant mercenary Wade Wilson (a.k.a. Deadpool) assembles a team of fellow mutant rogues to protect a young boy with abilities from the brutal, time-traveling cyborg Cable.",
+          "releaseInfo": "2018",
+          "imdbRating": "7.6",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy"
+          ],
+          "runtime": "120 min",
+          "order": 11,
+          "note": "After Deadpool"
+        },
+        {
+          "id": "tt4682266",
+          "type": "movie",
+          "name": "The New Mutants",
+          "poster": "https://images.metahub.space/poster/small/tt4682266/img",
+          "background": "https://images.metahub.space/background/medium/tt4682266/img",
+          "logo": "https://images.metahub.space/logo/medium/tt4682266/img",
+          "description": "Five young mutants, just discovering their abilities while held in a secret facility against their will, fight to escape their past sins and save themselves.",
+          "releaseInfo": "2020",
+          "imdbRating": "5.3",
+          "genres": [
+            "Action",
+            "Horror",
+            "Mystery"
+          ],
+          "runtime": "94 min",
+          "order": 12,
+          "note": "Standalone"
+        },
+        {
+          "id": "tt3315342",
+          "type": "movie",
+          "name": "Logan",
+          "poster": "https://images.metahub.space/poster/small/tt3315342/img",
+          "background": "https://images.metahub.space/background/medium/tt3315342/img",
+          "logo": "https://images.metahub.space/logo/medium/tt3315342/img",
+          "description": "In a future where mutants are nearly extinct, an elderly and weary Logan leads a quiet life. But when Laura, a mutant child pursued by scientists, comes to him for help, he must get her to safety.",
+          "releaseInfo": "2017",
+          "imdbRating": "8.1",
+          "genres": [
+            "Action",
+            "Drama",
+            "Sci-Fi"
+          ],
+          "runtime": "137 min",
+          "order": 13,
+          "note": "2029 — the end of the line"
+        },
+        {
+          "id": "tt5114356",
+          "type": "series",
+          "name": "Legion",
+          "poster": "https://images.metahub.space/poster/small/tt5114356/img",
+          "background": "https://images.metahub.space/background/medium/tt5114356/img",
+          "logo": "https://images.metahub.space/logo/medium/tt5114356/img",
+          "description": "David Haller is a troubled young man diagnosed as schizophrenic, but after a strange encounter he discovers special powers that will change his life forever.",
+          "releaseInfo": "2017–2019",
+          "imdbRating": "8.1",
+          "genres": [
+            "Action",
+            "Sci-Fi",
+            "Thriller"
+          ],
+          "runtime": "47 min",
+          "order": 14,
+          "note": "Fox TV, loosely connected"
+        },
+        {
+          "id": "tt4396630",
+          "type": "series",
+          "name": "The Gifted",
+          "poster": "https://images.metahub.space/poster/small/tt4396630/img",
+          "background": "https://images.metahub.space/background/medium/tt4396630/img",
+          "logo": "https://images.metahub.space/logo/medium/tt4396630/img",
+          "description": "In a world where mutated humans are treated with distrust and fear, an institute for mutants battles to achieve peaceful co-existence with humanity.",
+          "releaseInfo": "2017–2019",
+          "imdbRating": "7.2",
+          "genres": [
+            "Action",
+            "Fantasy",
+            "Sci-Fi"
+          ],
+          "runtime": "44 min",
+          "order": 15,
+          "note": "Fox TV, alternate timeline"
+        },
+        {
+          "id": "tt16026746",
+          "type": "series",
+          "name": "X-Men '97",
+          "poster": "https://images.metahub.space/poster/small/tt16026746/img",
+          "background": "https://images.metahub.space/background/medium/tt16026746/img",
+          "logo": "https://images.metahub.space/logo/medium/tt16026746/img",
+          "description": "A band of mutants use their uncanny gifts to protect a world that hates and fears them; they're challenged like never before, forced to face a dangerous and unexpected new future.",
+          "releaseInfo": "2024–",
+          "imdbRating": "8.7",
+          "genres": [
+            "Animation",
+            "Action",
+            "Adventure"
+          ],
+          "runtime": "31 min",
+          "order": 16,
+          "note": "Animated — continues the 1992 series"
+        }
+      ]
+    },
+    {
+      "id": "sony",
+      "name": "Marvel — Spider-Man (Sony)",
+      "description": "Sony's Spider-Man films: Raimi, Webb, Spider-Verse and the SSU, each line in order.",
+      "items": [
+        {
+          "id": "tt0145487",
+          "type": "movie",
+          "name": "Spider-Man",
+          "poster": "https://images.metahub.space/poster/small/tt0145487/img",
+          "background": "https://images.metahub.space/background/medium/tt0145487/img",
+          "logo": "https://images.metahub.space/logo/medium/tt0145487/img",
+          "description": "A shy teenager is bitten by a genetically modified spider and uses his new spider-like abilities to fight injustice as a masked superhero.",
+          "releaseInfo": "2002",
+          "imdbRating": "7.4",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+          ],
+          "runtime": "121 min",
+          "order": 1,
+          "note": "Raimi trilogy"
+        },
+        {
+          "id": "tt0316654",
+          "type": "movie",
+          "name": "Spider-Man 2",
+          "poster": "https://images.metahub.space/poster/small/tt0316654/img",
+          "background": "https://images.metahub.space/background/medium/tt0316654/img",
+          "logo": "https://images.metahub.space/logo/medium/tt0316654/img",
+          "description": "Peter Parker is beset with troubles in his failing personal life as he battles a former brilliant scientist named Otto Octavius.",
+          "releaseInfo": "2004",
+          "imdbRating": "7.5",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+          ],
+          "runtime": "127 min",
+          "order": 2,
+          "note": "Raimi trilogy"
+        },
+        {
+          "id": "tt0413300",
+          "type": "movie",
+          "name": "Spider-Man 3",
+          "poster": "https://images.metahub.space/poster/small/tt0413300/img",
+          "background": "https://images.metahub.space/background/medium/tt0413300/img",
+          "logo": "https://images.metahub.space/logo/medium/tt0413300/img",
+          "description": "A strange black entity from another world bonds with Peter Parker and causes inner turmoil as he contends with new villains, temptations, and revenge.",
+          "releaseInfo": "2007",
+          "imdbRating": "6.3",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+          ],
+          "runtime": "139 min",
+          "order": 3,
+          "note": "Raimi trilogy"
+        },
+        {
+          "id": "tt0948470",
+          "type": "movie",
+          "name": "The Amazing Spider-Man",
+          "poster": "https://images.metahub.space/poster/small/tt0948470/img",
+          "background": "https://images.metahub.space/background/medium/tt0948470/img",
+          "logo": "https://images.metahub.space/logo/medium/tt0948470/img",
+          "description": "After Peter Parker is bitten by a genetically altered spider, he gains newfound, spider-like powers and ventures out to save the city from the machinations of a mysterious reptilian foe.",
+          "releaseInfo": "2012",
+          "imdbRating": "7.0",
+          "genres": [
+            "Action",
+            "Sci-Fi"
+          ],
+          "runtime": "136 min",
+          "order": 4,
+          "note": "Webb duology"
+        },
+        {
+          "id": "tt1872181",
+          "type": "movie",
+          "name": "The Amazing Spider-Man 2",
+          "poster": "https://images.metahub.space/poster/small/tt1872181/img",
+          "background": "https://images.metahub.space/background/medium/tt1872181/img",
+          "logo": "https://images.metahub.space/logo/medium/tt1872181/img",
+          "description": "When New York is put under siege by Oscorp, it is up to Spider-Man to save the city he swore to protect as well as his loved ones.",
+          "releaseInfo": "2014",
+          "imdbRating": "6.6",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+          ],
+          "runtime": "141 min",
+          "order": 5,
+          "note": "Webb duology"
+        },
+        {
+          "id": "tt4633694",
+          "type": "movie",
+          "name": "Spider-Man: Into the Spider-Verse",
+          "poster": "https://images.metahub.space/poster/small/tt4633694/img",
+          "background": "https://images.metahub.space/background/medium/tt4633694/img",
+          "logo": "https://images.metahub.space/logo/medium/tt4633694/img",
+          "description": "Teen Miles Morales becomes the Spider-Man of his universe and must join with five spider-powered individuals from other dimensions to stop a threat for all realities.",
+          "releaseInfo": "2018",
+          "imdbRating": "8.4",
+          "genres": [
+            "Animation",
+            "Action",
+            "Adventure"
+          ],
+          "runtime": "117 min",
+          "order": 6,
+          "note": "Animated multiverse"
+        },
+        {
+          "id": "tt9362722",
+          "type": "movie",
+          "name": "Spider-Man: Across the Spider-Verse",
+          "poster": "https://images.metahub.space/poster/small/tt9362722/img",
+          "background": "https://images.metahub.space/background/medium/tt9362722/img",
+          "logo": "https://images.metahub.space/logo/medium/tt9362722/img",
+          "description": "Traveling across the multiverse, Miles Morales meets a new team of Spider-People, made up of heroes from different dimensions. But when the heroes clash over how to deal with a new threat, Miles finds himself at a crossroads.",
+          "releaseInfo": "2023",
+          "imdbRating": "8.5",
+          "genres": [
+            "Animation",
+            "Action",
+            "Adventure"
+          ],
+          "runtime": "140 min",
+          "order": 7,
+          "note": "Animated multiverse"
+        },
+        {
+          "id": "tt11057302",
+          "type": "movie",
+          "name": "Madame Web",
+          "poster": "https://images.metahub.space/poster/small/tt11057302/img",
+          "background": "https://images.metahub.space/background/medium/tt11057302/img",
+          "logo": "https://images.metahub.space/logo/medium/tt11057302/img",
+          "description": "Forced to confront her past, Cassandra Webb, a Manhattan paramedic that may have clairvoyant abilities, forms a relationship with three young women destined for powerful futures, if they can survive their threatening present.",
+          "releaseInfo": "2024",
+          "imdbRating": "4.1",
+          "genres": [
+            "Action",
+            "Thriller"
+          ],
+          "runtime": "117 min",
+          "order": 8,
+          "note": "SSU — set in 2003, earliest"
+        },
+        {
+          "id": "tt1270797",
+          "type": "movie",
+          "name": "Venom",
+          "poster": "https://images.metahub.space/poster/small/tt1270797/img",
+          "background": "https://images.metahub.space/background/medium/tt1270797/img",
+          "logo": "https://images.metahub.space/logo/medium/tt1270797/img",
+          "description": "A failed reporter is bonded to an alien entity, one of many symbiotes who have invaded Earth. But the being takes a liking to Earth and decides to protect it.",
+          "releaseInfo": "2018",
+          "imdbRating": "6.6",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+          ],
+          "runtime": "112 min",
+          "order": 9,
+          "note": "SSU"
+        },
+        {
+          "id": "tt7097896",
+          "type": "movie",
+          "name": "Venom: Let There Be Carnage",
+          "poster": "https://images.metahub.space/poster/small/tt7097896/img",
+          "background": "https://images.metahub.space/background/medium/tt7097896/img",
+          "logo": "https://images.metahub.space/logo/medium/tt7097896/img",
+          "description": "Eddie Brock attempts to reignite his career by interviewing serial killer Cletus Kasady, who becomes the host of the symbiote Carnage and escapes prison after a failed execution.",
+          "releaseInfo": "2021",
+          "imdbRating": "5.9",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Crime"
+          ],
+          "runtime": "97 min",
+          "order": 10,
+          "note": "SSU"
+        },
+        {
+          "id": "tt5108870",
+          "type": "movie",
+          "name": "Morbius",
+          "poster": "https://images.metahub.space/poster/small/tt5108870/img",
+          "background": "https://images.metahub.space/background/medium/tt5108870/img",
+          "logo": "https://images.metahub.space/logo/medium/tt5108870/img",
+          "description": "Biochemist Michael Morbius tries to cure himself of a rare blood disease, but he inadvertently infects himself with a form of vampirism instead.",
+          "releaseInfo": "2022",
+          "imdbRating": "5.1",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Horror"
+          ],
+          "runtime": "104 min",
+          "order": 11,
+          "note": "SSU"
+        },
+        {
+          "id": "tt8790086",
+          "type": "movie",
+          "name": "Kraven the Hunter",
+          "poster": "https://images.metahub.space/poster/small/tt8790086/img",
+          "background": "https://images.metahub.space/background/medium/tt8790086/img",
+          "logo": "https://images.metahub.space/logo/medium/tt8790086/img",
+          "description": "Kraven's complex relationship with his ruthless father, Nikolai Kravinoff, starts him down a path of vengeance with brutal consequences, motivating him to become not only the greatest hunter in the world, but also one of its most ...",
+          "releaseInfo": "2024",
+          "imdbRating": "5.5",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Thriller"
+          ],
+          "runtime": "127 min",
+          "order": 12,
+          "note": "SSU"
+        },
+        {
+          "id": "tt16366836",
+          "type": "movie",
+          "name": "Venom: The Last Dance",
+          "poster": "https://images.metahub.space/poster/small/tt16366836/img",
+          "background": "https://images.metahub.space/background/medium/tt16366836/img",
+          "logo": "https://images.metahub.space/logo/medium/tt16366836/img",
+          "description": "Eddie Brock and Venom must make a devastating decision as they're pursued by a mysterious military man and alien monsters from Venom's home world.",
+          "releaseInfo": "2024",
+          "imdbRating": "6.0",
+          "genres": [
+            "Action",
+            "Fantasy",
+            "Horror"
+          ],
+          "runtime": "109 min",
+          "order": 13,
+          "note": "SSU finale"
+        }
+      ]
+    },
+    {
+      "id": "classic",
+      "name": "Marvel — Classics (pre-MCU)",
+      "description": "Everything before Iron Man 2008 plus the other studios' one-offs, in release order.",
+      "items": [
+        {
+          "id": "tt0091225",
+          "type": "movie",
+          "name": "Howard the Duck",
+          "poster": "https://images.metahub.space/poster/small/tt0091225/img",
+          "background": "https://images.metahub.space/background/medium/tt0091225/img",
+          "logo": "https://images.metahub.space/logo/medium/tt0091225/img",
+          "description": "A sarcastic humanoid duck is pulled from his homeworld to Earth where he must stop an alien invasion with the help of a nerdy scientist and a struggling female rock singer.",
+          "releaseInfo": "1986",
+          "imdbRating": "4.8",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy"
+          ],
+          "runtime": "110 min",
+          "order": 1,
+          "note": "Lucasfilm"
+        },
+        {
+          "id": "tt0098141",
+          "type": "movie",
+          "name": "The Punisher",
+          "poster": "https://images.metahub.space/poster/small/tt0098141/img",
+          "background": "https://images.metahub.space/background/medium/tt0098141/img",
+          "logo": "https://images.metahub.space/logo/medium/tt0098141/img",
+          "description": "When Frank Castle's family is murdered by criminals, he wages war on crime as a vigilante assassin known only as The Punisher.",
+          "releaseInfo": "1990",
+          "imdbRating": "5.7",
+          "genres": [
+            "Action",
+            "Crime",
+            "Thriller"
+          ],
+          "runtime": "89 min",
+          "order": 2,
+          "note": "Dolph Lundgren"
+        },
+        {
+          "id": "tt0103923",
+          "type": "movie",
+          "name": "Captain America",
+          "poster": "https://images.metahub.space/poster/small/tt0103923/img",
+          "background": "https://images.metahub.space/background/medium/tt0103923/img",
+          "logo": "https://images.metahub.space/logo/medium/tt0103923/img",
+          "description": "Frozen in the ice for decades, Captain America is freed to battle against archcriminal The Red Skull.",
+          "releaseInfo": "1991",
+          "imdbRating": "3.3",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+          ],
+          "runtime": "97 min",
+          "order": 3,
+          "note": "21st Century Film Corp"
+        },
+        {
+          "id": "tt0120611",
+          "type": "movie",
+          "name": "Blade",
+          "poster": "https://images.metahub.space/poster/small/tt0120611/img",
+          "background": "https://images.metahub.space/background/medium/tt0120611/img",
+          "logo": "https://images.metahub.space/logo/medium/tt0120611/img",
+          "description": "A half-vampire, half-mortal man becomes a protector of the mortal race, while slaying evil vampires.",
+          "releaseInfo": "1998",
+          "imdbRating": "7.1",
+          "genres": [
+            "Action",
+            "Horror",
+            "Sci-Fi"
+          ],
+          "runtime": "121 min",
+          "order": 4,
+          "note": "New Line"
+        },
+        {
+          "id": "tt0187738",
+          "type": "movie",
+          "name": "Blade II",
+          "poster": "https://images.metahub.space/poster/small/tt0187738/img",
+          "background": "https://images.metahub.space/background/medium/tt0187738/img",
+          "logo": "https://images.metahub.space/logo/medium/tt0187738/img",
+          "description": "Blade forms an uneasy alliance with the vampire council in order to combat the Reapers, who are feeding on vampires.",
+          "releaseInfo": "2002",
+          "imdbRating": "6.7",
+          "genres": [
+            "Action",
+            "Horror",
+            "Sci-Fi"
+          ],
+          "runtime": "117 min",
+          "order": 5,
+          "note": "New Line"
+        },
+        {
+          "id": "tt0287978",
+          "type": "movie",
+          "name": "Daredevil",
+          "poster": "https://images.metahub.space/poster/small/tt0287978/img",
+          "background": "https://images.metahub.space/background/medium/tt0287978/img",
+          "logo": "https://images.metahub.space/logo/medium/tt0287978/img",
+          "description": "A man blinded by toxic waste which also enhanced his remaining senses fights crime as an acrobatic martial arts superhero.",
+          "releaseInfo": "2003",
+          "imdbRating": "5.3",
+          "genres": [
+            "Action",
+            "Crime",
+            "Drama"
+          ],
+          "runtime": "103 min",
+          "order": 6,
+          "note": "Fox"
+        },
+        {
+          "id": "tt0286716",
+          "type": "movie",
+          "name": "Hulk",
+          "poster": "https://images.metahub.space/poster/small/tt0286716/img",
+          "background": "https://images.metahub.space/background/medium/tt0286716/img",
+          "logo": "https://images.metahub.space/logo/medium/tt0286716/img",
+          "description": "Bruce Banner, a genetics researcher with a tragic past, suffers a lab accident that makes him transform into a raging, giant green monster when angered, making him a target of forces seeking to abuse his power.",
+          "releaseInfo": "2003",
+          "imdbRating": "5.7",
+          "genres": [
+            "Action",
+            "Sci-Fi"
+          ],
+          "runtime": "138 min",
+          "order": 7,
+          "note": "Universal / Ang Lee"
+        },
+        {
+          "id": "tt0330793",
+          "type": "movie",
+          "name": "The Punisher",
+          "poster": "https://images.metahub.space/poster/small/tt0330793/img",
+          "background": "https://images.metahub.space/background/medium/tt0330793/img",
+          "logo": "https://images.metahub.space/logo/medium/tt0330793/img",
+          "description": "An undercover FBI agent becomes a vigilante and sets out to unleash his wrath upon the corrupt businessman who slaughtered his entire family at a reunion.",
+          "releaseInfo": "2004",
+          "imdbRating": "6.4",
+          "genres": [
+            "Action",
+            "Crime",
+            "Drama"
+          ],
+          "runtime": "124 min",
+          "order": 8,
+          "note": "Thomas Jane"
+        },
+        {
+          "id": "tt0359013",
+          "type": "movie",
+          "name": "Blade: Trinity",
+          "poster": "https://images.metahub.space/poster/small/tt0359013/img",
+          "background": "https://images.metahub.space/background/medium/tt0359013/img",
+          "logo": "https://images.metahub.space/logo/medium/tt0359013/img",
+          "description": "Blade, now a wanted man by the FBI, must join forces with the Nightstalkers to face his most challenging enemy yet: Dracula.",
+          "releaseInfo": "2004",
+          "imdbRating": "5.8",
+          "genres": [
+            "Action",
+            "Horror",
+            "Sci-Fi"
+          ],
+          "runtime": "113 min",
+          "order": 9,
+          "note": "New Line"
+        },
+        {
+          "id": "tt0357277",
+          "type": "movie",
+          "name": "Elektra",
+          "poster": "https://images.metahub.space/poster/small/tt0357277/img",
+          "background": "https://images.metahub.space/background/medium/tt0357277/img",
+          "logo": "https://images.metahub.space/logo/medium/tt0357277/img",
+          "description": "An assassin's change of heart leads her into a war against an evil crime syndicate.",
+          "releaseInfo": "2005",
+          "imdbRating": "4.7",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Crime"
+          ],
+          "runtime": "97 min",
+          "order": 10,
+          "note": "Daredevil spin-off"
+        },
+        {
+          "id": "tt0290747",
+          "type": "movie",
+          "name": "Man-Thing",
+          "poster": "https://images.metahub.space/poster/small/tt0290747/img",
+          "background": "https://images.metahub.space/background/medium/tt0290747/img",
+          "logo": "https://images.metahub.space/logo/medium/tt0290747/img",
+          "description": "Agents of an oil tycoon vanish while exploring a swamp marked for drilling. The local sheriff investigates and faces a Seminole legend come to life: Man-Thing, a shambling swamp-monster whose touch burns those who feel fear.",
+          "releaseInfo": "2005",
+          "imdbRating": "4.1",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Horror"
+          ],
+          "runtime": "97 min",
+          "order": 11,
+          "note": "Lionsgate"
+        },
+        {
+          "id": "tt0120667",
+          "type": "movie",
+          "name": "Fantastic Four",
+          "poster": "https://images.metahub.space/poster/small/tt0120667/img",
+          "background": "https://images.metahub.space/background/medium/tt0120667/img",
+          "logo": "https://images.metahub.space/logo/medium/tt0120667/img",
+          "description": "A group of astronauts gain superpowers after a cosmic radiation exposure and must use them to oppose the plans of their enemy, Doctor Victor Von Doom.",
+          "releaseInfo": "2005",
+          "imdbRating": "5.7",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+          ],
+          "runtime": "125 min",
+          "order": 12,
+          "note": "Fox"
+        },
+        {
+          "id": "tt0259324",
+          "type": "movie",
+          "name": "Ghost Rider",
+          "poster": "https://images.metahub.space/poster/small/tt0259324/img",
+          "background": "https://images.metahub.space/background/medium/tt0259324/img",
+          "logo": "https://images.metahub.space/logo/medium/tt0259324/img",
+          "description": "A motorcycle stuntman who sold his soul becomes a supernatural agent of vengeance.",
+          "releaseInfo": "2007",
+          "imdbRating": "5.3",
+          "genres": [
+            "Action",
+            "Fantasy",
+            "Thriller"
+          ],
+          "runtime": "114 min",
+          "order": 13,
+          "note": "Sony"
+        },
+        {
+          "id": "tt33398387",
+          "type": "movie",
+          "name": "Fantastic Four: Rise of the Silver Surfer",
+          "releaseInfo": "2007",
+          "imdbRating": "5.9",
+          "runtime": "86 min",
+          "order": 14,
+          "note": "Fox"
+        },
+        {
+          "id": "tt0450314",
+          "type": "movie",
+          "name": "Punisher: War Zone",
+          "poster": "https://images.metahub.space/poster/small/tt0450314/img",
+          "background": "https://images.metahub.space/background/medium/tt0450314/img",
+          "logo": "https://images.metahub.space/logo/medium/tt0450314/img",
+          "description": "Frank Castle, known as the Punisher, ruthlessly demolishes organized crime, but it starts an even bigger war.",
+          "releaseInfo": "2008",
+          "imdbRating": "5.9",
+          "genres": [
+            "Action",
+            "Crime",
+            "Drama"
+          ],
+          "runtime": "102 min",
+          "order": 15,
+          "note": "Lionsgate"
+        },
+        {
+          "id": "tt1071875",
+          "type": "movie",
+          "name": "Ghost Rider: Spirit of Vengeance",
+          "poster": "https://images.metahub.space/poster/small/tt1071875/img",
+          "background": "https://images.metahub.space/background/medium/tt1071875/img",
+          "logo": "https://images.metahub.space/logo/medium/tt1071875/img",
+          "description": "Johnny Blaze, tortured by the Ghost Rider's curse, gets a chance of redemption through protecting the Devil's son, whose father is pursuing him.",
+          "releaseInfo": "2012",
+          "imdbRating": "4.4",
+          "genres": [
+            "Action",
+            "Fantasy",
+            "Thriller"
+          ],
+          "runtime": "96 min",
+          "order": 16,
+          "note": "Sony"
+        },
+        {
+          "id": "tt1502712",
+          "type": "movie",
+          "name": "Fantastic Four",
+          "poster": "https://images.metahub.space/poster/small/tt1502712/img",
+          "background": "https://images.metahub.space/background/medium/tt1502712/img",
+          "logo": "https://images.metahub.space/logo/medium/tt1502712/img",
+          "description": "Four young outsiders teleport to an alternate and dangerous universe which alters their physical form in shocking ways. The four must learn to harness their new abilities and work together to save Earth from a former friend turned...",
+          "releaseInfo": "2015",
+          "imdbRating": "4.3",
+          "genres": [
+            "Animation",
+            "Action",
+            "Adventure"
+          ],
+          "runtime": "100 min",
+          "order": 17,
+          "note": "Fox reboot"
+        }
+      ]
+    }
+  ]
+}
