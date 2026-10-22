@@ -16,32 +16,34 @@ and streams come from whatever stream addons you already have installed.
 
 ## Install
 
-Stremio → **Addons** → paste the URL → **Install**:
+Nothing to clone and nothing to run. In Stremio: **Addons** → paste the URL →
+**Install**.
 
 ```
 https://marvel-chrono-addon.houssam20.workers.dev/manifest.json
 ```
 
-It runs on Cloudflare Workers, so it works on phones and TVs too — nothing
-to install on your machine.
+It is hosted on Cloudflare Workers, so the same URL works on phones and TVs.
 
-## Run it yourself
+## Run your own copy
+
+If you'd rather host it yourself, or want to change the order:
 
 ```bash
-node src/server.js          # http://127.0.0.1:7000/manifest.json
+git clone https://github.com/houssam20-M/marvel-chrono-addon
+cd marvel-chrono-addon
+node src/server.js
 ```
 
-It is also installed as a systemd user service, so it starts with the session:
+Then in Stremio: **Addons** → `http://127.0.0.1:7000/manifest.json` → **Install**.
+
+To keep it running across reboots, install it as a systemd user service:
 
 ```bash
 systemctl --user status marvel-chrono-addon     # check
 systemctl --user restart marvel-chrono-addon    # after editing the data
 systemctl --user disable --now marvel-chrono-addon
 ```
-
-## Install in Stremio
-
-Stremio → **Addons** → paste `http://127.0.0.1:7000/manifest.json` → **Install**.
 
 ## Deploy
 
@@ -71,8 +73,11 @@ listing anything it could not resolve.
 ## Layout
 
 ```
-src/titles.js          ordered title lists, per universe
-src/server.js          addon server (manifest + catalog endpoints, zero deps)
+src/titles.js            ordered title lists, per universe
+src/addon.js             manifest + catalog routing, shared by both runtimes
+src/server.js            runs the addon on Node, for local use
+src/worker.js            runs the same addon on Cloudflare Workers
 scripts/resolve-ids.mjs  title -> IMDb id -> Cinemeta metadata
-data/catalogs.json     generated; what the server actually serves
+scripts/download_posters.py  saves every poster, numbered, to ~/Pictures
+data/catalogs.json       generated; what both runtimes actually serve
 ```
