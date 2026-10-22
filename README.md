@@ -14,7 +14,18 @@ and streams come from whatever stream addons you already have installed.
 | Marvel — Spider-Man (Sony) | 13 | Raimi, Webb, Spider-Verse, then the SSU |
 | Marvel — Classics (pre-MCU) | 17 | Release order |
 
-## Run it
+## Install
+
+Stremio → **Addons** → paste the URL → **Install**:
+
+```
+https://marvel-chrono-addon.houssam20.workers.dev/manifest.json
+```
+
+It runs on Cloudflare Workers, so it works on phones and TVs too — nothing
+to install on your machine.
+
+## Run it yourself
 
 ```bash
 node src/server.js          # http://127.0.0.1:7000/manifest.json
@@ -31,6 +42,16 @@ systemctl --user disable --now marvel-chrono-addon
 ## Install in Stremio
 
 Stremio → **Addons** → paste `http://127.0.0.1:7000/manifest.json` → **Install**.
+
+## Deploy
+
+`src/addon.js` holds the manifest and routing; `src/server.js` runs it on Node
+and `src/worker.js` runs the same code on Cloudflare Workers.
+
+```bash
+npm install wrangler
+npx wrangler deploy
+```
 
 ## Editing the list
 

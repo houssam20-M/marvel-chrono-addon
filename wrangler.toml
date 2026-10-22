@@ -1,0 +1,6 @@
+name = "marvel-chrono-addon"
+main = "src/worker.js"
+compatibility_date = "2026-10-01"
+
+[observability]
+enabled = true
